@@ -2,6 +2,6 @@ SKŁAD ZESPOŁU:
 
 Dorota Duda, 
 Ewa Węglewska, 
-Paweł Żabiński, 
+Paweł Żabczyński, 
 Tomasz Petrykowski, 
-Maciej Peta, 
+Maciej Peta
