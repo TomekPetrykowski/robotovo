@@ -11,7 +11,9 @@
 ## Wykonane części
 1. Project Vision and Scope
 2. User Personas and Use Cases
+3. Functional and Non-functional Requirements
+4. Entire system scope and our project in it (zadanie niestandardowe)
 
 ## Części w trakcie:
-1. Functional and Non-functional Requirements
-2. Entire system scope and our project in it (zadanie niestandardowe)
+1. Wireframes and User Interface Mockups
+2. Tooling Selection and Justification
